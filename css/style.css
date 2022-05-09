@@ -4,7 +4,8 @@ h1{
 
 div{
     border: 2px solid black;
-    background-color: #cccacab4;
+    background-color: #d6d3d3b4;
     padding-left: 20px;
     width: 50%;
+    margin: 0 auto;
 }
